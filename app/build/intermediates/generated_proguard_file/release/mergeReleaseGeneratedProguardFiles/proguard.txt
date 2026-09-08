@@ -1,0 +1,14 @@
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.home.HomeViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.home.HomeViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.library.LibraryViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.library.LibraryViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.player.PlayerViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.player.PlayerViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.search.SearchViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.search.SearchViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.settings.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.settings.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.shorts.ShortsViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.shorts.ShortsViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.subscriptions.SubscriptionsViewModel
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.subscriptions.SubscriptionsViewModel

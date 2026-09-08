@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.pichitube.app.feature.shorts.ShortsViewModel

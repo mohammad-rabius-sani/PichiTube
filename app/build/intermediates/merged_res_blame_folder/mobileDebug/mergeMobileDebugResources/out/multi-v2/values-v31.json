@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pichitube.app-mergeMobileDebugResources-75:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "F:\\PichiTube\\app\\src\\main\\res\\values-v31\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "140",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "362"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SojiB\\.gradle\\caches\\8.11.1\\transforms\\cfb27545a2d5182b3a476c1cc50f8856\\transformed\\core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    },
+                    "to": {
+                        "startLines": "7,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "367,785",
+                        "endLines": "13,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "780,1009"
+                    }
+                }
+            ]
+        }
+    ]
+}

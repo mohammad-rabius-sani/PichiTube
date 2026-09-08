@@ -1,0 +1,17 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "downloadUrl": "https://github.com/mohammad-rabius-sani/PichiTube/releases/latest/download/PichiTube.apk",
+  "customMessage": "Welcome to PichiTube v1.0.0 official release! Enjoy pure ad-free YouTube streaming, background playback, and up to 4K quality.",
+  "changelog": [
+    "Official v1.0.0 Release",
+    "100% Ad-Free YouTube streaming with SponsorBlock auto-skip",
+    "Up to 4K (2160p) & 2K (1440p) crystal-clear video with synchronized audio",
+    "Background audio playback & lock screen media notification controls",
+    "Dedicated Shorts player with fluid vertical swipe navigation",
+    "Smart live YouTube search with autocomplete suggestions",
+    "Endless smooth Home feed with Bangladesh regional trends & recommendations",
+    "Sleep timer with 'Stop after this video' option",
+    "Built-in in-app self-updater with direct APK download & 1-tap installation"
+  ]
+}

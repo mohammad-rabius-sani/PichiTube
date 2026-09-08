@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pichitube.app-mergeTvDebugResources-75:/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SojiB\\.gradle\\caches\\8.11.1\\transforms\\4a7c884d74e347cf7b282e5db5420667\\transformed\\zxing-android-embedded-4.3.0\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,293",
+                        "endColumns": "58,46,131,108",
+                        "endOffsets": "109,156,288,397"
+                    }
+                }
+            ]
+        }
+    ]
+}

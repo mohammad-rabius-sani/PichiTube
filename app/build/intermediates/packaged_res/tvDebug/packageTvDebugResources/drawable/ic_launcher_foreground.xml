@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Rounded background circle -->
+    <path
+        android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0"
+        android:fillColor="#FF0000" />
+
+    <!-- Play button (YouTube-style triangle) -->
+    <path
+        android:pathData="M40,34 L40,74 L76,54 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Subtle inner ring for depth -->
+    <path
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"
+        android:strokeColor="#CC0000"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent" />
+
+</vector>

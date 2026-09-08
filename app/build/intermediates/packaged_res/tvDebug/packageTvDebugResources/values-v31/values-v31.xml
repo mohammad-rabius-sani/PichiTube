@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PichiTube.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/pt_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_empty</item>
+        <item name="postSplashScreenTheme">@style/Theme.PichiTube</item>
+    </style>
+</resources>

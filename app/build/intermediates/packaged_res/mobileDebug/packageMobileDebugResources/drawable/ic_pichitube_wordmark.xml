@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="40dp"
+    android:viewportWidth="200"
+    android:viewportHeight="40">
+    <!-- Red play icon -->
+    <path
+        android:pathData="M4,4H36V36H4Z"
+        android:fillColor="#FF0033" />
+    <path
+        android:pathData="M14,12 L14,28 L28,20 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- "PichiTube" text approximation with rectangles -->
+    <path
+        android:pathData="M46,10H52V30H46ZM54,10H72V16H60V19H70V25H60V30H72V30H54Z"
+        android:fillColor="#FFFFFF" />
+</vector>

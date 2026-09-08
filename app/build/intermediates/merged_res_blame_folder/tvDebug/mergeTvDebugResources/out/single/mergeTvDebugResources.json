@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.pichitube.app-main-79:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/drawable_ic_download_notification.xml.flat",
+        "source": "com.pichitube.app-main-79:/drawable/ic_download_notification.xml"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/drawable_ic_splash_branding.png.flat",
+        "source": "com.pichitube.app-main-79:/drawable/ic_splash_branding.png"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/xml_file_provider_paths.xml.flat",
+        "source": "com.pichitube.app-main-79:/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/xml_network_security_config.xml.flat",
+        "source": "com.pichitube.app-main-79:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/drawable_tv_banner.xml.flat",
+        "source": "com.pichitube.app-main-79:/drawable/tv_banner.xml"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/drawable_ic_pichitube_wordmark.xml.flat",
+        "source": "com.pichitube.app-main-79:/drawable/ic_pichitube_wordmark.xml"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/drawable_ic_empty.xml.flat",
+        "source": "com.pichitube.app-main-79:/drawable/ic_empty.xml"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.pichitube.app-main-79:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.pichitube.app-tvDebug-77:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.pichitube.app-main-79:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

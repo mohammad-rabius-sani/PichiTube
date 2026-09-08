@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pichitube.app.TestExtractor" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-08-20T17:16:21" hostname="DESKTOP-D5OV64K" time="11.541">
+  <properties/>
+  <testcase name="testInnerTubeService" classname="com.pichitube.app.TestExtractor" time="3.081"/>
+  <testcase name="testExtractorServiceFull" classname="com.pichitube.app.TestExtractor" time="3.566"/>
+  <testcase name="testWithNetworkModuleInterceptors" classname="com.pichitube.app.TestExtractor" time="0.838"/>
+  <testcase name="testSearch" classname="com.pichitube.app.TestExtractor" time="1.064"/>
+  <testcase name="testStream" classname="com.pichitube.app.TestExtractor" time="2.333"/>
+  <testcase name="testTrending" classname="com.pichitube.app.TestExtractor" time="0.659"/>
+  <system-out><![CDATA[INNERTUBE SEARCH SUCCESS: 11 videos (First: The Ultimate Flutter Tutorial for Beginners - 2025 Full Course)
+INNERTUBE PLAYER SUCCESS: Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster), streams: 0 video, 0 audio
+INNERTUBE TRENDING SUCCESS: 33 videos (First: Army Madical #army #defenceacademy #trending #armylover #1600mtrruning #armylife #viral #shorts, 64 million views - play Short)
+EXTRACTOR SERVICE TRENDING: 15 videos
+EXTRACTOR SERVICE STREAM: Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)
+NETWORK MODULE INTERCEPTOR SUCCESS: 15
+SEARCH SUCCESS: 20
+STREAM SUCCESS: Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)
+TRENDING SUCCESS: 15
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

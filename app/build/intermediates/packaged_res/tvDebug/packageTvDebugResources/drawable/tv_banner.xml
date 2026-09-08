@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Dark background gradient -->
+    <path
+        android:pathData="M0,0H320V180H0Z"
+        android:fillColor="#0D0D0D" />
+
+    <!-- Accent strip on left -->
+    <path
+        android:pathData="M0,0H8V180H0Z"
+        android:fillColor="#FF0033" />
+
+    <!-- Play triangle -->
+    <path
+        android:pathData="M40,60 L40,120 L90,90 Z"
+        android:fillColor="#FF0033" />
+
+    <!-- "PichiTube" text placeholder (text is rendered by Android from strings.xml) -->
+    <path
+        android:pathData="M105,78 H280 V82 H105Z"
+        android:fillColor="#FF0033"
+        android:fillAlpha="0.4" />
+    <path
+        android:pathData="M105,98 H240 V102 H105Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.15" />
+
+</vector>
